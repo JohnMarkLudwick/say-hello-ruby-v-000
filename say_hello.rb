@@ -1,3 +1,3 @@
 def say_hello(name = "Ruby Programmer")
-  puts "Hello say_hello(Gabriella) !"
+  puts "say_hello(Gabriella) !"
 end
